@@ -1,14 +1,15 @@
-<h2><b>Past Works</b></h2>
+<h2><b>Past Works:</b></h2>
 
 <div>
+    <p> These are my past works. All of them were made with <a href="https://www.electronjs.org/">Electron</a>.
     <br />
-    <a href="https://github.com/urbaaan/uClient" > uClient</a> 
+    - <a href="https://github.com/urbaaan/uClient" > uClient</a> 
     <br /> 
-    <a href="https://social.venge.io/#client.html" > VengeClient</a> 
+    - <a href="https://social.venge.io/#client.html" > VengeClient</a> 
     <br /> 
-    <a href="https://github.com/NeXi-Client/NeXi-Client"> NeXi-Client</a> 
+    - <a href="https://github.com/NeXi-Client/NeXi-Client"> NeXi-Client</a> 
     <br /> 
-    <a href="https://github.com/urbaaan/uClient-R"> uClient-R</a> 
+    - <a href="https://github.com/urbaaan/uClient-R"> uClient-R</a> 
     <br /> 
     <br /> 
   </div>
