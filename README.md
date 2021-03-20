@@ -1,28 +1,20 @@
-<h4> Hello!</h4>
+<h2><b>Past Works</b></h2>
 
-You are looking at my profile :D. I am a beginner at Javascript, but have had multiple experiences with Electron. 
-
----
-
-**Currently I am working on ...**
-
-- <div>
-    ... several Electron Clients for Several Games, such as VengeClient, uClient, NeXi-Client, uClient-R, and evClient+ (Some No Longer Being Maintained).
+<div>
     <br />
-    <strong>View: </strong> <a href="https://github.com/urbaaan/uClient" > uClient</a> 
+    <a href="https://github.com/urbaaan/uClient" > uClient</a> 
     <br /> 
-    <strong>View: </strong> <a href="https://social.venge.io/#client.html" > VengeClient</a> 
+    <a href="https://social.venge.io/#client.html" > VengeClient</a> 
     <br /> 
-    <strong>View: </strong> <a href="https://github.com/NeXi-Client/NeXi-Client"> NeXi-Client</a> 
+    <a href="https://github.com/NeXi-Client/NeXi-Client"> NeXi-Client</a> 
+    <br /> 
+    <a href="https://github.com/urbaaan/uClient-R"> uClient-R</a> 
     <br /> 
     <br /> 
   </div>
 
   ***
 
-**Languages and Tools:**
-
----
 
 **Github Stats:**
 
