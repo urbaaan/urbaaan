@@ -5,7 +5,7 @@
     <br />
     - <a href="https://github.com/urbaaan/uClient" > uClient</a> 
     <br /> 
-    - <a href="https://social.venge.io/#client.html" > VengeClient</a> 
+    - <a href="https://social.venge.io/client.html" > VengeClient</a> 
     <br /> 
     - <a href="https://github.com/NeXi-Client/NeXi-Client"> NeXi-Client</a> 
     <br /> 
